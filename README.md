@@ -1,2 +1,2 @@
-# House-Price-Prediction-Machine-Learning
-House Price Prediction App | Python, ML Regression (Random Forest, ANN, XGBoost, LightGBM) Developed and evaluated models with data preprocessing and performance metrics (MAE, MSE, R²). Automated training, saved results to CSV, and serialized models using Pickle.
+House Price Prediction App | Python, Machine Learning
+Built regression models using Random Forest, ANN, XGBoost, and LightGBM with proper data preprocessing and evaluation metrics (MAE, MSE, R²). Automated model training, stored results in CSV format, and serialized trained models using Pickle for deployment.
